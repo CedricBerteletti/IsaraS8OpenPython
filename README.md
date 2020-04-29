@@ -1,1 +1,1 @@
-# IsaraS8OpenPython
+# Programme d'exemple en Python pour le module S8-OPEN
